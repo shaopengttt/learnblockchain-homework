@@ -1,5 +1,9 @@
 # 第一周 第一课作业
 
+W1-1:https://img.learnblockchain.cn/pdf/camp2/camp_w1_1.pdf
+
+<img width="606" alt="image" src="https://user-images.githubusercontent.com/8415242/224207591-33c15602-f3ba-4df8-8cfb-2d60a2a6563e.png">
+
 
 1、钱包地址：https://goerli.etherscan.io/address/0x3453dDea27e3cb2421146520e3291BCbEF2d6424
 
